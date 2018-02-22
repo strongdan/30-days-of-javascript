@@ -3,7 +3,7 @@ Build 30 things in 30 days with 30 tutorials with no frameworks, compilers, libr
 
 ---
 
-- [ ] Day 1 - JavaScript Drum Kit
+- [X] Day 1 - [JavaScript Drum Kit]()
 - [ ] Day 2 - CSS and JS Clock
 - [ ] Day 3 - Playing with CSS Variables and JS
 - [ ] Day 4 - Array Cardio Day 1
