@@ -1,4 +1,4 @@
-# Wes Bos's 30 Days of Vanilla Javascript
+# [Wes Bos's 30 Days of Vanilla Javascript](https://github.com/wesbos/JavaScript30)
 Build 30 things in 30 days with 30 tutorials with no frameworks, compilers, libraries or boilerplate
 
 ---
